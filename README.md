@@ -7,3 +7,6 @@
   player rtmp data
 - client
   android publish rtmp to server 
+
+manual rtmp publish tool
+  * OBS
